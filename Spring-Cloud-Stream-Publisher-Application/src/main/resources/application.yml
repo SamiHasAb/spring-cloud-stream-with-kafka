@@ -1,0 +1,10 @@
+
+server:
+  port: 9192
+
+spring:
+  cloud:
+    stream:
+      bindings:
+        output:   #  <- output
+          destination: topicname

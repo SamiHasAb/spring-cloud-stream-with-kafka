@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Stream-Consumer-Application/Spring-Cloud-Stream-Consumer-Application.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Stream-Consumer-Application/Spring-Cloud-Stream-Consumer-Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Stream-Publisher-Application/Spring-Cloud-Stream-Publisher-Application.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Stream-Publisher-Application/Spring-Cloud-Stream-Publisher-Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-stream-via-kafka.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-stream-via-kafka.iml" />
+    </modules>
+  </component>
+</project>
